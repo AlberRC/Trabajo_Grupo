@@ -54,8 +54,6 @@ public class bar {
                     iniciarJuego = sc.next().charAt(0);
                 }
         }
-        int prueva = 5;
-        System.out.println(prueva);
         int dineroActual = 0;
         System.out.println(dineroActual);
     }
