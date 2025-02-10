@@ -54,5 +54,7 @@ public class bar {
                     iniciarJuego = sc.next().charAt(0);
                 }
         }
+        int prueva = 5;
+        System.out.println(prueva);
     }
 }

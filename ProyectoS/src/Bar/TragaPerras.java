@@ -105,5 +105,6 @@ public class TragaPerras {
         }
         texto.append("+---------+" + "\n");
         return texto.toString();
-    }
+
+        }
 }
